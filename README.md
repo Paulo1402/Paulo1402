@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Paulo Benatto and I'm 20<br>I'm a fullstack developer that loves programming and is always looking to improve and learn something new.<br><br>Completely in love with Python! ❤️🐍
+My name is Paulo Benatto and I'm 20.<br>I'm a fullstack developer that loves programming and is always looking to improve and learn something new.<br><br>Completely in love with Python! ❤️🐍
 
 
 ## 🌐 Socials:
